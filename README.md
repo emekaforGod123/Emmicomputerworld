@@ -1,6 +1,5 @@
 
 
-
     
 </head>
 <body>
@@ -16,12 +15,14 @@
     <main>
         <section id="home">
             <h1>Welcome to Emekus Computer Service Limited</h1>
-            <p>We offer Computer accessories of all kinds,Computer services,we do graphics work,internet,editing,excel,type setting,power point,online work, We are here for you,we do service delivery, we sell computer, external hard drive, mouse, CU, monitor, Modem, Laptop, Printer (HP, LAZER of all kind), my address is No. 5 Omuagi Road, Omudioga Emohua Local Government Area, Rivers State.</p>
+            <p>We offer Computer accessories of all kinds,Computer services,we do graphics work,internet,editing,excel,type setting,power point,online work, We are here for you,we do service delivery, we sell computer, external hard drive, mouse, CU, monitor, Modem, Laptop, Printer (HP, LAZER of all kind),Buy computers and laptops with all the accessories you  such as keyboards, mice, monitor stands, USB hubs, webcams, printer ink, and more all
+
+Computers, Laptops, Tablets, Desktops Monitors Computer Accessories, PC Components, PC Gaming, from top brands: Acer, Toshiba, Apple, Dell, HP, Microsoft & moremy address is No. 5 Omuagi Road, Omudioga Emohua Local Government Area, Rivers State.</p>
             <button>Learn More</button>
         </section>
         <section id="about">
             <h1>About Me</h1>
-            <p>My Name is Evangelist Emejuru Chukwuemeka, I'm a Assistance Pastor in Living Faith Church Omudioga Emohua LGA of Rivers State, God have been helping me, I do Computer Work, I am indigiene of Omudioga Emohua LGA Rivers State, i am single but searching, My favourite book is Bible, I love Praying, reading going out for evangelism turning many to righteousness
+            <p>My Name is Evangelist Emejuru Chukwuemeka, I'm a Assistance Pastor in Living Faith Church Omudioga Emohua LGA of Rivers State, God have been helping me, I do Computer Work, I am indigiene of Omudioga Emohua LGA Rivers State, i am single but searching, My favourite book is Bible, I love Praying, reading going out for evangelism turning many to righteousness, i am 24 years old a man of Wisdom, lovers of family, advicer to many, i am a student in Federal Polytechnic Nekede Owerri in Imo State,i study Electrical and Electronics Engineering, Punctuality and Regularity is my name,
             </p>
         </section>
         <section id="contact">
@@ -44,4 +45,3 @@
     </footer>
 </body>
 </html>
-
